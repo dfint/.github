@@ -7,4 +7,4 @@
 * [Traducción de Dwarf Dortress al español](http://www.bay12forums.com/smf/index.php?topic=156549.new#new) (bay12forums Spanish forum thread, in Spanish)
 * [vk.com/dfrus group](https://vk.com/dfrus) (in Russian)
 * [Русификация Dwarf Fortress](http://forum.dfwk.ru/index.php/topic,204.new.html#new) (forum.dfwk.ru forum thread, in Russian)
-* [This project' discussions](https://github.com/orgs/dfint/discussions)
+* [This project's discussions](https://github.com/orgs/dfint/discussions)
