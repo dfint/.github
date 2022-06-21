@@ -1,4 +1,4 @@
-* [Documentation of the project](https://github.com/dfint/dfint-docs/wiki)
+* [Documentation of the project](https://github.com/dfint/docs/wiki)
 * [The project on transifex.com](https://www.transifex.com/dwarf-fortress-translation/dwarf-fortress) - a place where the translation is performed
 
 ### Discussions (forum threads, social network groups, etc.)
