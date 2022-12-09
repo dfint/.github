@@ -1,4 +1,4 @@
-**[Discussions (questions and answers about this project)](https://github.com/orgs/dfint/discussions)**
+**[Discussions (e.g. announcements, questions and answers about this project and so on)](https://github.com/orgs/dfint/discussions)**
 
 ## Main links
 
