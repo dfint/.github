@@ -1,3 +1,5 @@
+We create tools for fan-made localization of Dwarf Fortress game.
+
 **[Discussions (e.g. announcements, questions and answers about this project and so on)](https://github.com/orgs/dfint/discussions)**
 
 ## Main links
