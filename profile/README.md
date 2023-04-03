@@ -1,9 +1,8 @@
 We create tools for fan-made localization of Dwarf Fortress game.
 
-**[Discussions (e.g. announcements, questions and answers about this project and so on)](https://github.com/orgs/dfint/discussions)**
-
 ## Main links
 
+* **[Discussions](https://github.com/orgs/dfint/discussions)** (e.g. announcements, questions and answers about this project and so on)
 * [The project on transifex.com](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - a place where the translation is performed
 * [df-steam-hook](https://github.com/dfint/df-steam-hook) - current localization patch/hook for DF 50.04 to 50.07. We are trying to update configs as soon as possible after update of the game.
   See instructions in the readme of the repository and the pach itself in the [releases](https://github.com/dfint/df-steam-hook/releases).
