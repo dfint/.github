@@ -5,7 +5,7 @@ We create tools for fan-made localization of Dwarf Fortress game.
 ## Main links
 
 * [Documentation of the project](https://github.com/dfint/docs/wiki) (outdated)
-* [The project on transifex.com](https://www.transifex.com/dwarf-fortress-translation/dwarf-fortress) - a place where the translation is performed
+* [The project on transifex.com](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress) - a place where the translation is performed
 
 ### Discussions on other sites (forum threads, social network groups, etc.)
 
