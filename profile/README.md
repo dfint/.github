@@ -15,3 +15,11 @@ We create tools for fan-made localization of Dwarf Fortress game.
 * [vk.com/dfrus group](https://vk.com/dfrus) (in Russian)
 * [Русификация Dwarf Fortress](http://forum.dfwk.ru/index.php/topic,204.new.html#new) (forum.dfwk.ru forum thread, in Russian)
 
+## What is Dwarf Fortress?
+
+(if you accidentally stumbled upon this project)
+
+* [Dwarf Fortress on Steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
+* [Dwarf Fortress official site](https://www.bay12games.com/dwarves/)
+* [Dwarf Fortress page on Wikipedia](https://en.wikipedia.org/wiki/Dwarf_Fortress)
+* [Recent review of Dwarf Fortress on IGN](https://www.ign.com/articles/dwarf-fortress-review)
