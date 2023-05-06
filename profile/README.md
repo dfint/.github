@@ -19,7 +19,7 @@ We create tools for fan-made localization of Dwarf Fortress game.
 
 <sup>(if you accidentally stumbled upon this project)</sup>
 
-In short, it is a indirect control stratagy, a lot similar to [Rimworld](https://store.steampowered.com/app/294100/RimWorld/), but in a fantasy setting (actually, Dwarf Fortress is a predecessor of Rimworld).
+In short, it is an indirect control strategy, very similar to [Rimworld](https://store.steampowered.com/app/294100/RimWorld/), but in a fantasy setting (in fact, Dwarf Fortress is a predecessor of Rimworld).
 
 * [Dwarf Fortress on Steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
 * [Dwarf Fortress official site](https://www.bay12games.com/dwarves/)
