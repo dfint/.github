@@ -25,4 +25,4 @@ In short, it is an indirect control strategy, very similar to [Rimworld](https:/
 
 ## Translation progress
 
-![Chart](https://raw.githubusercontent.com/dfint/autobuild/main/images/dwarf-fortress-steam.svg)
+<img src="https://raw.githubusercontent.com/dfint/autobuild/main/images/dwarf-fortress-steam.svg" alt="Chart" width="600"/>
