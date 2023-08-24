@@ -25,4 +25,9 @@ In short, it is an indirect control strategy, very similar to [Rimworld](https:/
 
 ## Translation progress
 
-<img src="https://raw.githubusercontent.com/dfint/autobuild/main/images/dwarf-fortress-steam.svg" alt="Chart" width="600"/>
+Only languages with translation progress more then 1% are shown
+
+[![Chart][1]][2]
+
+  [1]: https://raw.githubusercontent.com/dfint/autobuild/main/images/dwarf-fortress-steam-short.svg
+  [2]: https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam
