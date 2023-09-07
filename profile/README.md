@@ -1,5 +1,8 @@
 We create tools for fan-made localization of Dwarf Fortress game.
 
+![GitHub followers](https://img.shields.io/github/followers/dfint?label=dfint%20followers&style=for-the-badge)
+![GitHub Org's stars](https://img.shields.io/github/stars/dfint?label=total%20stars&style=for-the-badge)
+
 ## Main links
 
 * [**Roadmap**](https://github.com/orgs/dfint/discussions/8)
