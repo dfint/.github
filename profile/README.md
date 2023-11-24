@@ -1,4 +1,4 @@
-We create tools for fan-made localization of Dwarf Fortress game.
+We develop tools for the localization and help enthisiasts with localization of the game to different langauges.
 
 ![GitHub followers](https://img.shields.io/github/followers/dfint?label=dfint%20followers&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/dfint?label=total%20stars&style=for-the-badge)
