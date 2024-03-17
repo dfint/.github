@@ -24,7 +24,7 @@ In short, it is an indirect control strategy, very similar to [Rimworld](https:/
 * [Dwarf Fortress on Steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
 * [Dwarf Fortress official site](https://www.bay12games.com/dwarves/)
 * [Dwarf Fortress page on Wikipedia](https://en.wikipedia.org/wiki/Dwarf_Fortress)
-* [Recent (December 2022) review of Dwarf Fortress on IGN](https://www.ign.com/articles/dwarf-fortress-review)
+* [Review of Dwarf Fortress on IGN (December 2022)](https://www.ign.com/articles/dwarf-fortress-review)
 
 ## Translation progress
 
