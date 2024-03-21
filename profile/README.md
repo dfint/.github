@@ -9,7 +9,7 @@ We develop tools for the localization and help enthisiasts with localization of 
 * [**Discussions**](https://github.com/orgs/dfint/discussions) (e.g. announcements, questions and answers about this project and so on)
 * [**The project on transifex.com**](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - a place where the translation is performed
   * [Translation hints and Transifex usage recommendations](https://github.com/dfint/.github/wiki/Translation-hints-and-Transifex-usage-recommendations)
-* [**df-steam-hook-rs**](https://github.com/dfint/df-steam-hook-rs) and its [**installer**](https://github.com/dfint/installer) - actively developed parts of the project. Supported versiond of DF are 50.10 and newer, provided there is a config for the corresponding version. Both Windows and Linux platforms are supported.  
+* [**df-steam-hook-rs**](https://github.com/dfint/df-steam-hook-rs) localization hook and its [**installer**](https://github.com/dfint/installer) - actively developed parts of the project. Supported versiond of DF are 50.10 and newer, provided there is a config for the corresponding version. Both Windows and Linux platforms are supported.  
   We are trying to update configs as soon as possible after update of the game (tipically, 2-3 days, or about a week in hard cases).
 * [**df-steam-hook**](https://github.com/dfint/df-steam-hook) - older localization patch/hook, supports DF versions up to 50.11.
 * [Language communities (translation coordination and help to apply translation in your language)](https://github.com/orgs/dfint/discussions/10)
