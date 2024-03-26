@@ -7,9 +7,9 @@ We develop tools for the localization and help enthisiasts with localization of 
 
 * [**dfint/installer**](https://github.com/dfint/installer)
 
-## Participate in localization of DF to your language
+## Help with translation of DF to your language
 
-* [**transifex.com / dwarf-fortress-steam**](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
+* You can participate in localization here: [**transifex.com / dwarf-fortress-steam**](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
   * [Translation hints and Transifex usage recommendations](https://github.com/dfint/.github/wiki/Translation-hints-and-Transifex-usage-recommendations)
 
 ## Other info and links
