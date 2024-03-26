@@ -1,7 +1,7 @@
-We develop tools for the localization and help enthisiasts with localization of Dwarf Fortress to different langauges.
+![GitHub followers](https://img.shields.io/github/followers/dfint?label=dfint%20followers&style=flat-square)
+![GitHub Org's stars](https://img.shields.io/github/stars/dfint?label=total%20stars&style=flat-square)
 
-![GitHub followers](https://img.shields.io/github/followers/dfint?label=dfint%20followers&style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/dfint?label=total%20stars&style=for-the-badge)
+We develop tools for the localization and help enthisiasts with localization of Dwarf Fortress to different langauges.
 
 ## Install localization:
 
