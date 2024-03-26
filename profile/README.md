@@ -1,14 +1,21 @@
-We develop tools for the localization and help enthisiasts with localization of the game to different langauges.
+We develop tools for the localization and help enthisiasts with localization of Dwarf Fortress to different langauges.
 
 ![GitHub followers](https://img.shields.io/github/followers/dfint?label=dfint%20followers&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/dfint?label=total%20stars&style=for-the-badge)
 
-## Main links
+## Install localization:
+
+* [**dfint/installer**](https://github.com/dfint/installer)
+
+## Participate in localization of DF to your language
+
+* [**transifex.com / dwarf-fortress-steam**](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
+  * [Translation hints and Transifex usage recommendations](https://github.com/dfint/.github/wiki/Translation-hints-and-Transifex-usage-recommendations)
+
+## Other info and links
 
 * [**Roadmap**](https://github.com/orgs/dfint/discussions/8)
 * [**Discussions**](https://github.com/orgs/dfint/discussions) (e.g. announcements, questions and answers about this project and so on)
-* [**The project on transifex.com**](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - a place where the translation is performed
-  * [Translation hints and Transifex usage recommendations](https://github.com/dfint/.github/wiki/Translation-hints-and-Transifex-usage-recommendations)
 * [**df-steam-hook-rs**](https://github.com/dfint/df-steam-hook-rs) localization hook and its [**installer**](https://github.com/dfint/installer) - actively developed parts of the project. Supported versiond of DF are 50.10 and newer, provided there is a config for the corresponding version. Both Windows and Linux platforms are supported.  
   We are trying to update configs as soon as possible after update of the game (tipically, 2-3 days, or about a week in hard cases).
 * [**df-steam-hook**](https://github.com/dfint/df-steam-hook) - older localization patch/hook, supports DF versions up to 50.11.
