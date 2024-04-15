@@ -5,14 +5,14 @@ We develop tools for the localization and help enthisiasts with localization of 
 
 ## Install localization:
 
-[![Static Badge](https://img.shields.io/badge/Installer-forestgreen?style=for-the-badge)
+[![Installer](https://img.shields.io/badge/Installer-forestgreen?style=for-the-badge)
 ](https://github.com/dfint/installer)
 
 ## Help with translation of DF to your language
 
 You can participate in localization here:
 
-[![Static Badge](https://img.shields.io/badge/Translate_Dwarf_Fortress-blue?style=for-the-badge&logo=transifex)](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
+[![Translate_Dwarf_Fortress](https://img.shields.io/badge/Translate_Dwarf_Fortress-blue?style=for-the-badge&logo=transifex)](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
 
 * See also: [Translation hints and Transifex usage recommendations](https://github.com/dfint/.github/wiki/Translation-hints-and-Transifex-usage-recommendations)
 
