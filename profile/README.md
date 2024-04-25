@@ -5,7 +5,7 @@ We develop tools for the localization and help enthisiasts with localization of 
 
 ## Install localization:
 
-[![Installer](https://img.shields.io/badge/Installer-forestgreen?style=for-the-badge)
+[![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)
 ](https://github.com/dfint/installer)
 
 ## Help with translation of DF to your language
