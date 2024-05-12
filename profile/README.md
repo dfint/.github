@@ -14,7 +14,7 @@ You can contribute to the localization here:
 
 [![Translate_Dwarf_Fortress](https://img.shields.io/badge/Translate_Dwarf_Fortress-blue?style=for-the-badge&logo=transifex)](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam)
 
-* See also: [Translation Tips and Transifex Usage Recommendations](https://github.com/dfint/.github/wiki/Translation-hints-and-Transifex-usage-recommendations)
+* See also: [Translation Tips and Transifex Usage Recommendations](https://github.com/dfint/.github/wiki/Translation-Tips-and-Transifex-Usage-Recommendations)
 
 ## Other info and links
 
