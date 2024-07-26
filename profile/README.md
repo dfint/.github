@@ -8,6 +8,11 @@ We develop localization tools and help enthusiasts localize Dwarf Fortress into 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)
 ](https://github.com/dfint/installer)
 
+If the installer doesn't work for you for some reason (e.g. you are using Windows 7 or 8), you can use the package builder:
+
+[![Package builder](https://img.shields.io/badge/Package%20builder-blue?style=for-the-badge)
+](https://dfint-package-build.streamlit.app/)
+
 ## Help translating DF into your language
 
 You can contribute to the localization here:
