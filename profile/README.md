@@ -1,6 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/dfint?label=dfint%20followers&style=flat-square)
-![GitHub Org's Stars](https://img.shields.io/github/stars/dfint?label=total%20stars&style=flat-square)
-
 We develop localization tools and help enthusiasts localize Dwarf Fortress into different languages.
 
 ## Install the localization:
