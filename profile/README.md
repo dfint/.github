@@ -20,7 +20,7 @@ You can contribute to the localization here:
 
 ## Other info and links
 
-* [**Roadmap**](https://github.com/orgs/dfint/discussions/8)
+* [**Project status**](https://github.com/orgs/dfint/discussions?discussions_q=label%3Aproject-status) - posts about the current state of development and plans
 * [**Discussions**](https://github.com/orgs/dfint/discussions) (e.g. announcements, questions and answers about this project and so on)
 * [**df-steam-hook-rs**](https://github.com/dfint/df-steam-hook-rs) localization hook and its [**installer**](https://github.com/dfint/installer) - actively developed parts of the project. Supported versiond of DF are 50.10 and newer, provided there is a config for the corresponding version. Both Windows and Linux platforms are supported.  
   We try to update configs as soon as possible after a game update (typically 2-3 days, or about a week in hard cases).
