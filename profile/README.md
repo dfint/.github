@@ -25,7 +25,7 @@ You can contribute to the localization here:
 * [**df-steam-hook-rs**](https://github.com/dfint/df-steam-hook-rs) localization hook and its [**installer**](https://github.com/dfint/installer) - actively developed parts of the project. Supported versiond of DF are 50.10 and newer, provided there is a config for the corresponding version. Both Windows and Linux platforms are supported.  
   We try to update configs as soon as possible after a game update (typically 2-3 days, or about a week in hard cases).
 * [**df-steam-hook**](https://github.com/dfint/df-steam-hook) - older localization patch/hook, supports DF versions up to 50.11.
-* [Language communities (translation coordination and help to apply translation in your language)](https://github.com/orgs/dfint/discussions/10)
+* [**Language communities**](https://github.com/orgs/dfint/discussions/10) - translation coordination and help to apply translation in your language
 * [**Project's Wiki / documentation**](https://github.com/dfint/.github/wiki) - to be written
 
 ## What is Dwarf Fortress?
