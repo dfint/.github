@@ -5,10 +5,14 @@ We develop localization tools and help enthusiasts localize Dwarf Fortress into 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)
 ](https://github.com/dfint/installer)
 
-If the installer doesn't work for you for some reason (e.g. you are using Windows 7 or 8), you can use the package builder:
+If the installer doesn't work for you for some reason (e.g. it doesn't run at all), you can use the package builder:
 
 [![Package builder](https://img.shields.io/badge/Package%20builder-blue?style=for-the-badge)
 ](https://dfint-package-build.streamlit.app/)
+
+Supported versions of DF are 50.10 and newer (including 51 versions), provided there is a config for the corresponding version. Both Windows and Linux platforms are supported.
+
+We try to update configs as soon as possible after a game update (typically 1-3 days, or about a week in hard cases).
 
 ## Help translating DF into your language
 
@@ -22,9 +26,6 @@ You can contribute to the localization here:
 
 * [**Project status**](https://github.com/orgs/dfint/discussions?discussions_q=label%3Aproject-status) - posts about the current state of development and plans
 * [**Discussions**](https://github.com/orgs/dfint/discussions) (e.g. announcements, questions and answers about this project and so on)
-* [**df-steam-hook-rs**](https://github.com/dfint/df-steam-hook-rs) localization hook and its [**installer**](https://github.com/dfint/installer) - actively developed parts of the project. Supported versiond of DF are 50.10 and newer, provided there is a config for the corresponding version. Both Windows and Linux platforms are supported.  
-  We try to update configs as soon as possible after a game update (typically 2-3 days, or about a week in hard cases).
-* [**df-steam-hook**](https://github.com/dfint/df-steam-hook) - older localization patch/hook, supports DF versions up to 50.11.
 * [**Language communities**](https://github.com/orgs/dfint/discussions/10) - translation coordination and help to apply translation in your language
 * [**Project's Wiki / documentation**](https://github.com/dfint/.github/wiki) - to be written
 
