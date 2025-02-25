@@ -24,8 +24,9 @@ You can contribute to the localization here:
 
 ## Other info and links
 
+[![Static Badge](https://img.shields.io/badge/discussions-8A2BE2?style=for-the-badge&logo=github)](https://github.com/dfint/.github/discussions)
+
 * [**Project status**](https://github.com/orgs/dfint/discussions?discussions_q=label%3Aproject-status) - posts about the current state of development and plans
-* [**Discussions**](https://github.com/orgs/dfint/discussions) (e.g. announcements, questions and answers about this project and so on)
 * [**Language communities**](https://github.com/orgs/dfint/discussions/10) - translation coordination and help to apply translation in your language
 * [**Project's Wiki / documentation**](https://github.com/dfint/.github/wiki) - to be written
 
