@@ -31,7 +31,7 @@ You can contribute to the localization here:
 
 ## How to contribute (apart from translation)
 
-You can start by implemenitng some of the issues labeled as ["good first issue"](https://github.com/search?q=org%3Adfint%20is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22%20&type=issues).
+You can start by implemenitng some of the issues labeled as ["good first issue"](https://github.com/search?q=org%3Adfint%20is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22%20&type=issues) (no low level programming skills are needed).
 
 Also, see the latest [project status](https://github.com/orgs/dfint/discussions?discussions_q=label%3Aproject-status) post and the [full list of issues](https://github.com/search?q=org%3Adfint+is%3Aissue+is%3Aopen+archived%3Afalse&type=issues).
 
