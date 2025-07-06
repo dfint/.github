@@ -1,5 +1,3 @@
-We develop localization tools and help enthusiasts localize Dwarf Fortress into different languages.
-
 ## Install the localization:
 
 [![dfint/installer](https://img.shields.io/badge/dfint%2Finstaller-forestgreen?style=for-the-badge)
