@@ -51,5 +51,5 @@ Only languages with more than 1% translation progress are shown
 
 [![Chart][1]][2]
 
-  [1]: https://raw.githubusercontent.com/dfint/df_translation_stats/main/diagrams/dwarf-fortress-steam-short.svg
+  [1]: https://raw.githubusercontent.com/dfint/df_translation_stats/main/diagrams/dwarf-fortress-steam.svg
   [2]: https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam
