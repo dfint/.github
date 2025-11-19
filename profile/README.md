@@ -8,7 +8,7 @@ If the installer doesn't work for you for some reason (e.g. it doesn't run at al
 [![Package builder](https://img.shields.io/badge/Package%20builder-blue?style=for-the-badge)
 ](https://dfint-package-build.streamlit.app/)
 
-Supported versions of DF are 50.10 and newer (including 51.* and 52.* versions), provided there is a config for the corresponding version. Steam, itch.io, classic versions for both Windows and Linux platforms are supported.
+Supported versions of DF are 50.10 and newer (including 51.\*, 52.\* and 53.\* versions), provided there is a config for the corresponding version. Steam, itch.io, classic versions for both Windows and Linux platforms are supported.
 
 We try to update configs as soon as possible after a game update (typically 1-3 days, or about a week in hard cases).
 
